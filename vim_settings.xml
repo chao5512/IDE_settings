@@ -10,12 +10,30 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/druid/server/src/main/java/org/apache/druid/query/LocatedSegmentDescriptor.java" timestamp="1599546805580" />
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/RegionNodeModule.java" timestamp="1599551925493">
+        <mark key="[" line="120" column="15" />
+        <mark key="]" line="120" column="16" />
+        <mark key="." line="120" column="16" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/dataengine/impl/DefaultDataEngine.java" timestamp="1599551647217">
+        <mark key="[" line="125" column="43" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/writer/DiskWriter.java" timestamp="1599551139067" />
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/dataengine/impl/DefaultDataEngineFactory.java" timestamp="1599551824087" />
       <file name="/" timestamp="1599549545635">
         <mark key="[" line="0" column="0" />
       </file>
