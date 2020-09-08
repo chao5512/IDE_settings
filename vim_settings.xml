@@ -39,7 +39,9 @@
       <file name="/" timestamp="1599549545635">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/disknode/data/write/FileWriterManager.java" timestamp="1599560218579" />
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/disknode/data/write/FileWriterManager.java" timestamp="1599560760417">
+        <mark key="[" line="368" column="97" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/RegionNodeModule.java" timestamp="1599551925493">
         <mark key="[" line="120" column="15" />
         <mark key="]" line="120" column="16" />
