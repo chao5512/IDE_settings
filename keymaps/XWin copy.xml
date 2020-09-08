@@ -1,0 +1,6 @@
+<keymap version="1" name="XWin copy" parent="Default for XWin">
+  <action id="IntroduceActionsGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
+  <action id="IntroduceVariable" />
+</keymap>
