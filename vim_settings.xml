@@ -19,29 +19,74 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/file/sync/DefaultFileObjectSyncProcessor.java" timestamp="1599557922220" />
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/writer/DiskWriter.java" timestamp="1599551139067" />
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/dataengine/impl/DefaultDataEngineFactory.java" timestamp="1599551824087" />
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/disknode/server/tcp/handler/CloseFileMessageHandler.java" timestamp="1599558553109" />
+      <file name="/" timestamp="1599549545635">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/disknode/data/write/FileWriterManager.java" timestamp="1599556218942" />
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/RegionNodeModule.java" timestamp="1599551925493">
         <mark key="[" line="120" column="15" />
         <mark key="]" line="120" column="16" />
         <mark key="." line="120" column="16" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Commons/src/main/java/com/bonree/brfs/configuration/units/RegionNodeConfigs.java" timestamp="1599552079586" />
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/file/DefaultFileObjectCloser.java" timestamp="1599557295850" />
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/disknode/server/tcp/handler/TakeALook.java" timestamp="1599558696363">
+        <mark key="[" line="79" column="28" />
+        <mark key="]" line="79" column="29" />
+        <mark key="." line="79" column="29" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/dataengine/impl/DefaultDataEngine.java" timestamp="1599551647217">
         <mark key="[" line="125" column="43" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/writer/DiskWriter.java" timestamp="1599551139067" />
-      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/dataengine/impl/DefaultDataEngineFactory.java" timestamp="1599551824087" />
-      <file name="/" timestamp="1599549545635">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/file/DefaultFileObjectSupplier.java" timestamp="1599557986575" />
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="0" type="4">
+        <text>MappedByteBuffer b3 = Files.map(new File(f3));
+        b3.position(fileFormater.fileHeader().length());
+        b3.limit(b3.capacity() - fileFormater.fileTailer().length());
+        long c3 = ByteUtils.crc(b3);
+        System.out.println(c3);</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>MappedByteBuffer b3 = Files.map(new File(f3));
+        b3.position(fileFormater.fileHeader().length());
+        b3.limit(b3.capacity() - fileFormater.fileTailer().length());
+        long c3 = ByteUtils.crc(b3);
+        System.out.println(c3);</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>byte[] b3 = DataFileReader.readFile(new File(f3), 2, b3.length - 11);
+        System.out.println(&quot;b3.lenght: &quot; + b3.length);</text>
+      </register>
+      <register name="-" type="4">
+        <text>dataFile</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
