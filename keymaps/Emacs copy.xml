@@ -1,0 +1,6 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="IntroduceActionsGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
+  <action id="IntroduceVariable" />
+</keymap>
