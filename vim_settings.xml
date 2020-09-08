@@ -30,14 +30,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/file/sync/DefaultFileObjectSyncProcessor.java" timestamp="1599557922220" />
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/file/sync/DefaultFileObjectSyncProcessor.java" timestamp="1599559719433">
+        <mark key="[" line="58" column="57" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/writer/DiskWriter.java" timestamp="1599551139067" />
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/dataengine/impl/DefaultDataEngineFactory.java" timestamp="1599551824087" />
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/disknode/server/tcp/handler/CloseFileMessageHandler.java" timestamp="1599558553109" />
       <file name="/" timestamp="1599549545635">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/disknode/data/write/FileWriterManager.java" timestamp="1599556218942" />
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/disknode/data/write/FileWriterManager.java" timestamp="1599560218579" />
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/RegionNodeModule.java" timestamp="1599551925493">
         <mark key="[" line="120" column="15" />
         <mark key="]" line="120" column="16" />
@@ -45,10 +47,10 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Commons/src/main/java/com/bonree/brfs/configuration/units/RegionNodeConfigs.java" timestamp="1599552079586" />
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/file/DefaultFileObjectCloser.java" timestamp="1599557295850" />
-      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/disknode/server/tcp/handler/TakeALook.java" timestamp="1599558696363">
-        <mark key="[" line="79" column="28" />
-        <mark key="]" line="79" column="29" />
-        <mark key="." line="79" column="29" />
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/disknode/server/tcp/handler/TakeALook.java" timestamp="1599558710478">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/dataengine/impl/DefaultDataEngine.java" timestamp="1599551647217">
         <mark key="[" line="125" column="43" />
@@ -67,19 +69,27 @@
         System.out.println(c3);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImI1LmxlbmdodDogIiArIGI1Lmxlbmd0aCk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>MappedByteBuffer b3 = Files.map(new File(f3));
-        b3.position(fileFormater.fileHeader().length());
-        b3.limit(b3.capacity() - fileFormater.fileTailer().length());
-        long c3 = ByteUtils.crc(b3);
-        System.out.println(c3);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImI1LmxlbmdodDogIiArIGI1Lmxlbmd0aCk7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYzUpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsb25nIGM1ID0gQnl0ZVV0aWxzLmNyYyhiNSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBieXRlW10gYjUgPSBEYXRhRmlsZVJlYWRlci5yZWFkRmlsZShuZXcgRmlsZShmODUpLCBmaWxlRm9ybWF0ZXIuZmlsZUhlYWRlcigpLmxlbmd0aCgpKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>byte[] b3 = DataFileReader.readFile(new File(f3), 2, b3.length - 11);
         System.out.println(&quot;b3.lenght: &quot; + b3.length);</text>
       </register>
