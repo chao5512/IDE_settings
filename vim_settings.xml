@@ -14,8 +14,13 @@
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/druid/server/src/main/java/org/apache/druid/query/LocatedSegmentDescriptor.java" timestamp="1599545022648" />
+    </filemarks>
     <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers />
   </component>
   <component name="VimSearchSettings">
     <search>
