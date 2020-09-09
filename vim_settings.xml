@@ -25,23 +25,29 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1599560900159">
+      <file name="/Dummy.txt" timestamp="1599637627436">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/file/sync/DefaultFileObjectSyncProcessor.java" timestamp="1599559719433">
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/file/sync/DefaultFileObjectSyncProcessor.java" timestamp="1599636432919">
         <mark key="[" line="58" column="57" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/writer/DiskWriter.java" timestamp="1599551139067" />
-      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/dataengine/impl/DefaultDataEngineFactory.java" timestamp="1599551824087" />
-      <file name="$USER_HOME$/IdeaProjects/druid/indexing-hadoop/src/main/java/org/apache/druid/indexer/hadoop/DatasourceRecordReader.java" timestamp="1599633974750" />
-      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/disknode/server/tcp/handler/CloseFileMessageHandler.java" timestamp="1599558553109" />
+      <file name="$USER_HOME$/IdeaProjects/druid/indexing-hadoop/src/main/java/org/apache/druid/indexer/hadoop/DatasourceRecordReader.java" timestamp="1599638101420" />
+      <file name="$USER_HOME$/IdeaProjects/druid/server/src/test/java/org/apache/druid/server/coordination/SegmentLoadDropHandlerTest.java" timestamp="1599637610340">
+        <mark key="[" line="178" column="41" />
+      </file>
       <file name="/" timestamp="1599634605345">
         <mark key="[" line="0" column="0" />
       </file>
@@ -55,8 +61,6 @@
         <mark key="]" line="120" column="16" />
         <mark key="." line="120" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Commons/src/main/java/com/bonree/brfs/configuration/units/RegionNodeConfigs.java" timestamp="1599552079586" />
-      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/file/DefaultFileObjectCloser.java" timestamp="1599557295850" />
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/disknode/server/tcp/handler/TakeALook.java" timestamp="1599558710478">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
@@ -65,7 +69,14 @@
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/dataengine/impl/DefaultDataEngine.java" timestamp="1599551647217">
         <mark key="[" line="125" column="43" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/file/DefaultFileObjectSupplier.java" timestamp="1599557986575" />
+      <file name="$USER_HOME$/IdeaProjects/druid/pom.xml" timestamp="1599638161227">
+        <mark key="[" line="210" column="96" />
+        <mark key="]" line="30" column="32" />
+        <mark key="." line="30" column="32" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/druid/server/src/main/java/org/apache/druid/server/http/SegmentListerResource.java" timestamp="1599637567155">
+        <mark key="[" line="353" column="22" />
+      </file>
     </filemarks>
     <jumps />
   </component>
@@ -81,8 +92,8 @@
       <register name="1" type="2">
         <text>make the config of gui data more detail</text>
       </register>
-      <register name="&quot;" type="2">
-        <text>make the config of gui data more detail</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImI1LmxlbmdodDogIiArIGI1Lmxlbmd0aCk7Cg==</text>
@@ -107,7 +118,7 @@
         System.out.println(&quot;b3.lenght: &quot; + b3.length);</text>
       </register>
       <register name="-" type="4">
-        <text>crcCode</text>
+        <text>r</text>
       </register>
     </registers>
   </component>
