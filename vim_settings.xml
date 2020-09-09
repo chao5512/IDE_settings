@@ -34,6 +34,12 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -44,10 +50,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/druid/processing/src/main/java/org/apache/druid/segment/IndexIO.java" timestamp="1599640823067" />
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/file/sync/DefaultFileObjectSyncProcessor.java" timestamp="1599636432919">
         <mark key="[" line="58" column="57" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/druid/indexing-hadoop/src/main/java/org/apache/druid/indexer/hadoop/DatasourceRecordReader.java" timestamp="1599638101420" />
+      <file name="$USER_HOME$/IdeaProjects/druid/indexing-hadoop/src/main/java/org/apache/druid/indexer/hadoop/DatasourceRecordReader.java" timestamp="1599641368885" />
       <file name="$USER_HOME$/IdeaProjects/druid/server/src/test/java/org/apache/druid/server/coordination/SegmentLoadDropHandlerTest.java" timestamp="1599637610340">
         <mark key="[" line="178" column="41" />
       </file>
