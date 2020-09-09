@@ -30,6 +30,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1599560900159">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/file/sync/DefaultFileObjectSyncProcessor.java" timestamp="1599559719433">
         <mark key="[" line="58" column="57" />
       </file>
@@ -39,8 +44,10 @@
       <file name="/" timestamp="1599549545635">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/disknode/data/write/FileWriterManager.java" timestamp="1599560760417">
-        <mark key="[" line="368" column="97" />
+      <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/disknode/data/write/FileWriterManager.java" timestamp="1599560822694">
+        <mark key="[" line="378" column="15" />
+        <mark key="]" line="378" column="15" />
+        <mark key="." line="378" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/RegionNodeModule.java" timestamp="1599551925493">
         <mark key="[" line="120" column="15" />
@@ -71,32 +78,35 @@
         System.out.println(c3);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImI1LmxlbmdodDogIiArIGI1Lmxlbmd0aCk7Cg==</text>
+        <text>make the config of gui data more detail</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImI1LmxlbmdodDogIiArIGI1Lmxlbmd0aCk7Cg==</text>
+        <text>make the config of gui data more detail</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYzUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImI1LmxlbmdodDogIiArIGI1Lmxlbmd0aCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGM1ID0gQnl0ZVV0aWxzLmNyYyhiNSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYzUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gYjUgPSBEYXRhRmlsZVJlYWRlci5yZWFkRmlsZShuZXcgRmlsZShmODUpLCBmaWxlRm9ybWF0ZXIuZmlsZUhlYWRlcigpLmxlbmd0aCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGM1ID0gQnl0ZVV0aWxzLmNyYyhiNSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBieXRlW10gYjUgPSBEYXRhRmlsZVJlYWRlci5yZWFkRmlsZShuZXcgRmlsZShmODUpLCBmaWxlRm9ybWF0ZXIuZmlsZUhlYWRlcigpLmxlbmd0aCgpKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>byte[] b3 = DataFileReader.readFile(new File(f3), 2, b3.length - 11);
         System.out.println(&quot;b3.lenght: &quot; + b3.length);</text>
       </register>
       <register name="-" type="4">
-        <text>dataFile</text>
+        <text>crcCode</text>
       </register>
     </registers>
   </component>
