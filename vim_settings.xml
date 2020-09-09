@@ -31,6 +31,9 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -61,6 +64,7 @@
         <mark key="]" line="120" column="16" />
         <mark key="." line="120" column="16" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/hadoop-1/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/RecordReader.java" timestamp="1599638572652" />
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/disknode/server/tcp/handler/TakeALook.java" timestamp="1599558710478">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
