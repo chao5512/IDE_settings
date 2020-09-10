@@ -43,6 +43,9 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -52,6 +55,7 @@
       <file name="$USER_HOME$/IdeaProjects/druid0.17/services/src/test/java/org/apache/druid/cli/validate/DruidJsonValidatorTest.java" timestamp="1599709121414">
         <mark key="[" line="177" column="19" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/druid0.17/indexing-hadoop/src/main/java/org/apache/druid/indexer/hadoop/DatasourceRecordReader.java" timestamp="1599718969433" />
       <file name="$USER_HOME$/IdeaProjects/hadoop-1/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/RecordReader.java" timestamp="1599638572652" />
       <file name="$USER_HOME$/IdeaProjects/druid0.17/indexing-hadoop/src/test/java/org/apache/druid/indexer/hadoop/DatasourceRecordReaderTest.java" timestamp="1599717030130" />
       <file name="$USER_HOME$/IdeaProjects/druid0.17/extensions-core/kafka-indexing-service/pom.xml" timestamp="1599710446306" />
