@@ -55,17 +55,20 @@
       <file name="$USER_HOME$/IdeaProjects/druid0.17/services/src/test/java/org/apache/druid/cli/validate/DruidJsonValidatorTest.java" timestamp="1599709121414">
         <mark key="[" line="177" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/druid0.17/indexing-hadoop/src/main/java/org/apache/druid/indexer/hadoop/DatasourceRecordReader.java" timestamp="1599718969433" />
+      <file name="$USER_HOME$/IdeaProjects/druid0.17/indexing-hadoop/src/main/java/org/apache/druid/indexer/hadoop/DatasourceRecordReader.java" timestamp="1599720627131" />
       <file name="$USER_HOME$/IdeaProjects/hadoop-1/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/RecordReader.java" timestamp="1599638572652" />
       <file name="$USER_HOME$/IdeaProjects/druid0.17/indexing-hadoop/src/test/java/org/apache/druid/indexer/hadoop/DatasourceRecordReaderTest.java" timestamp="1599717030130" />
+      <file name="$USER_HOME$/IdeaProjects/druid0.17/indexing-hadoop/src/main/java/org/apache/druid/indexer/JobHelper.java" timestamp="1599719666142" />
       <file name="$USER_HOME$/IdeaProjects/druid0.17/extensions-core/kafka-indexing-service/pom.xml" timestamp="1599710446306" />
       <file name="/Dummy.txt" timestamp="1599637627436">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/druid0.17/indexing-hadoop/src/main/java/org/apache/druid/indexer/hadoop/IndexReader.java" timestamp="1599716681919">
-        <mark key="[" line="2" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/druid0.17/indexing-hadoop/src/main/java/org/apache/druid/indexer/hadoop/IndexReader.java" timestamp="1599720650664">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/file/sync/DefaultFileObjectSyncProcessor.java" timestamp="1599636432919">
         <mark key="[" line="58" column="57" />
@@ -95,7 +98,7 @@
         <mark key="]" line="30" column="32" />
         <mark key="." line="30" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/druid0.17/pom.xml" timestamp="1599709031216" />
+      <file name="$USER_HOME$/IdeaProjects/druid0.17/pom.xml" timestamp="1599720289749" />
       <file name="$USER_HOME$/IdeaProjects/druid/server/src/main/java/org/apache/druid/server/http/SegmentListerResource.java" timestamp="1599637567155">
         <mark key="[" line="353" column="22" />
       </file>
@@ -112,35 +115,37 @@
         System.out.println(c3);</text>
       </register>
       <register name="1" type="2">
-        <text>make the config of gui data more detail</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>System.out.println(</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImI1LmxlbmdodDogIiArIGI1Lmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYzUpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGM1ID0gQnl0ZVV0aWxzLmNyYyhiNSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">cHVibGljIHZvaWQgcHVzaGVyKCkgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGZpbmFsIEZpbGVTeXN0ZW0gZmlsZVN5c3RlbSA9IHppcC5nZXRGaWxlU3lzdGVtKGNvbmZpZ3VyYXRpb24pOwogICAgICAgICAgICBsb25nIHNpemUgPSAwTDsKICAgICAgICAgICAgZmluYWwgYnl0ZVtdIGJ1ZmZlciA9IG5ldyBieXRlWzEgPDwgMTNdOwogICAgICAgICAgICBwcm9ncmVzc2FibGUucHJvZ3Jlc3MoKTsKICAgICAgICAgICAgdHJ5IChaaXBJbnB1dFN0cmVhbSBpbiA9IG5ldyBaaXBJbnB1dFN0cmVhbShmaWxlU3lzdGVtLm9wZW4oemlwLCAxIDw8IDEzKSkpIHsKICAgICAgICAgICAgICAgIGZvciAoWmlwRW50cnkgZW50cnkgPSBpbi5nZXROZXh0RW50cnkoKTsgZW50cnkgIT0gbnVsbDsgZW50cnkgPSBpbi5nZXROZXh0RW50cnkoKSkgewogICAgICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBmaWxlTmFtZSA9IGVudHJ5LmdldE5hbWUoKTsKICAgICAgICAgICAgICAgICAgICBmaW5hbCBTdHJpbmcgb3V0cHV0UGF0aCA9IG5ldyBGaWxlKG91dERpciwgZmlsZU5hbWUpLmdldEFic29sdXRlUGF0aCgpOwoKICAgICAgICAgICAgICAgICAgICBDb21wcmVzc2lvblV0aWxzLnZhbGlkYXRlWmlwT3V0cHV0RmlsZSh6aXAuZ2V0TmFtZSgpLCBuZXcgRmlsZShvdXRwdXRQYXRoKSwgb3V0RGlyKTsKCiAgICAgICAgICAgICAgICAgICAgdHJ5IChmaW5hbCBPdXRwdXRTdHJlYW0gb3V0ID0gbmV3IEJ1ZmZlcmVkT3V0cHV0U3RyZWFtKG5ldyBGaWxlT3V0cHV0U3RyZWFtKG91dHB1dFBhdGgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBsZW4gPSBpbi5yZWFkKGJ1ZmZlcik7IGxlbiA+PSAwOyBsZW4gPSBpbi5yZWFkKGJ1ZmZlcikpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2dyZXNzYWJsZS5wcm9ncmVzcygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxlbiA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaXplICs9IGxlbjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dC53cml0ZShidWZmZXIsIDAsIGxlbik7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgb3V0LmZsdXNoKCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIHByb2dyZXNzYWJsZS5wcm9ncmVzcygpOwogICAgICAgICAgICByZXR1cm4gc2l6ZTsKICAgICAgICB9CiAgICAgICAgY2F0Y2ggKElPRXhjZXB0aW9uIHwgUnVudGltZUV4Y2VwdGlvbiBleGNlcHRpb24pIHsKICAgICAgICAgICAgbG9nLmVycm9yKGV4Y2VwdGlvbiwgIkV4Y2VwdGlvbiBpbiB1bnppcCByZXRyeSBsb29wIik7CiAgICAgICAgICAgIHRocm93IGV4Y2VwdGlvbjsKICAgICAgICB9CiAgICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gYjUgPSBEYXRhRmlsZVJlYWRlci5yZWFkRmlsZShuZXcgRmlsZShmODUpLCBmaWxlRm9ybWF0ZXIuZmlsZUhlYWRlcigpLmxlbmd0aCgpKTsK</text>
+        <text>make the config of gui data more detail</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImI1LmxlbmdodDogIiArIGI1Lmxlbmd0aCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYzUpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>byte[] b3 = DataFileReader.readFile(new File(f3), 2, b3.length - 11);
-        System.out.println(&quot;b3.lenght: &quot; + b3.length);</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsb25nIGM1ID0gQnl0ZVV0aWxzLmNyYyhiNSk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBieXRlW10gYjUgPSBEYXRhRmlsZVJlYWRlci5yZWFkRmlsZShuZXcgRmlsZShmODUpLCBmaWxlRm9ybWF0ZXIuZmlsZUhlYWRlcigpLmxlbmd0aCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>System.out.println(</text>
       </register>
     </registers>
   </component>
