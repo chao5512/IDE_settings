@@ -40,26 +40,35 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/druid/processing/src/main/java/org/apache/druid/segment/IndexIO.java" timestamp="1599640823067" />
+      <file name="$USER_HOME$/IdeaProjects/druid0.17/services/src/test/java/org/apache/druid/cli/validate/DruidJsonValidatorTest.java" timestamp="1599709121414">
+        <mark key="[" line="177" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/hadoop-1/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/RecordReader.java" timestamp="1599638572652" />
+      <file name="$USER_HOME$/IdeaProjects/druid0.17/indexing-hadoop/src/test/java/org/apache/druid/indexer/hadoop/DatasourceRecordReaderTest.java" timestamp="1599717030130" />
+      <file name="$USER_HOME$/IdeaProjects/druid0.17/extensions-core/kafka-indexing-service/pom.xml" timestamp="1599710446306" />
       <file name="/Dummy.txt" timestamp="1599637627436">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/druid/processing/src/main/java/org/apache/druid/segment/IndexIO.java" timestamp="1599640823067" />
+      <file name="$USER_HOME$/IdeaProjects/druid0.17/indexing-hadoop/src/main/java/org/apache/druid/indexer/hadoop/IndexReader.java" timestamp="1599716681919">
+        <mark key="[" line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/brfs-new-dev/FS_Server/src/main/java/com/bonree/brfs/duplication/datastream/file/sync/DefaultFileObjectSyncProcessor.java" timestamp="1599636432919">
         <mark key="[" line="58" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/druid/indexing-hadoop/src/main/java/org/apache/druid/indexer/hadoop/DatasourceRecordReader.java" timestamp="1599641368885" />
       <file name="$USER_HOME$/IdeaProjects/druid/server/src/test/java/org/apache/druid/server/coordination/SegmentLoadDropHandlerTest.java" timestamp="1599637610340">
         <mark key="[" line="178" column="41" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/druid0.17/services/src/test/java/org/apache/druid/cli/validate/DruidJsonValidatorTest.java" timestamp="1599709121414">
-        <mark key="[" line="177" column="19" />
       </file>
       <file name="/" timestamp="1599634605345">
         <mark key="[" line="0" column="0" />
@@ -69,7 +78,6 @@
         <mark key="]" line="378" column="15" />
         <mark key="." line="378" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hadoop-1/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapred/RecordReader.java" timestamp="1599638572652" />
       <file name="$USER_HOME$/IdeaProjects/druid0.17/extensions-core/kinesis-indexing-service/src/main/java/org/apache/druid/indexing/kinesis/KinesisIndexTaskTuningConfig.java" timestamp="1599710502477">
         <mark key="[" line="82" column="26" />
       </file>
@@ -87,7 +95,6 @@
       <file name="$USER_HOME$/IdeaProjects/druid/server/src/main/java/org/apache/druid/server/http/SegmentListerResource.java" timestamp="1599637567155">
         <mark key="[" line="353" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/druid0.17/extensions-core/kafka-indexing-service/pom.xml" timestamp="1599710446306" />
     </filemarks>
     <jumps />
   </component>
