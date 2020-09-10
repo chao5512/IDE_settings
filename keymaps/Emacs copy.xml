@@ -1,6 +1,15 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="1" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="0" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorKillRegion" />
   <action id="IntroduceActionsGroup">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
   <action id="IntroduceVariable" />
+  <action id="UnsplitAll" />
 </keymap>
