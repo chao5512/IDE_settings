@@ -8,6 +8,9 @@
           </MavenGeneralSettings>
         </option>
       </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+      </component>
     </defaultProject>
   </component>
 </application>
