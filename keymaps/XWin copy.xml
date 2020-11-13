@@ -1,7 +1,27 @@
 <keymap version="1" name="XWin copy" parent="Default for XWin">
+  <action id="$SelectAll" />
+  <action id="CheckinProject" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Diagram.SelectAll" />
+  <action id="EditorCutLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="EditorSelectWord" />
+  <action id="RecentFiles" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
 </keymap>
